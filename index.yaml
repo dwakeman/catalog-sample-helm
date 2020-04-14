@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   sample-catalog-template:
   - apiVersion: v1
-    appVersion: "1.0"
-    created: "2020-04-14T11:37:04.669922-07:00"
+    appVersion: 1.0.0
+    created: "2020-04-14T11:43:06.289766-07:00"
     description: A Helm chart for Kubernetes
-    digest: 283ea9b05725168db5562e2a91883076ca7c16a9496f61181a1a65c2a9b40f57
+    digest: 4e9b827b8bc432e993d7796dc20bb124cad0db511a0674dd38d71ad7c1a58d35
     name: sample-catalog-template
     urls:
     - sample-catalog-template-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-14T11:37:04.668571-07:00"
+generated: "2020-04-14T11:43:06.289117-07:00"
